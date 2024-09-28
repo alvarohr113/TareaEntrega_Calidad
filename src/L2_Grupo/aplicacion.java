@@ -10,6 +10,8 @@ public class aplicacion {
 		System.out.println("Segundo commit, rama2");
 		System.out.println("Tercer commit, rama2");
 		
+		System.out.println("Hacemos merge, Master y rama2");
+		
 		
 
 	}
